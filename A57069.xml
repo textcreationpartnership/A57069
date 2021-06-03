@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Resolvtion and most faithfull expression of the gentry and commonalty of the countie of Essex presented to the House of Parliament Jun. 20 1642, wherein is declared their certaine and reall intentions to maintaine the priviledges of the crowne and Parliament.</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57069</idno><idno type="EEBO-CITATION">9602302</idno>
+  <idno type="VID">43783</idno>
+  <idno type="EEBO-PROQUEST">2264196368</idno>
+  
+            <idno type="STC">Wing R1138</idno>
+            <idno type="STC">ESTC R26988</idno>
+            <idno type="OCLC">09602302</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A57069)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43783)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1339:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Resolvtion and most faithfull expression of the gentry and commonalty of the countie of Essex presented to the House of Parliament Jun. 20 1642, wherein is declared their certaine and reall intentions to maintaine the priviledges of the crowne and Parliament.</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>[6] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Arding,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Also the true relation of an opposition and distrubance given to the Earle of Stamford at the training of the traine bands at Leicester ... With the order from the House concerning Mr. Hastings as a delinquent and occasioner of the same disturbance ... As also an order to send for the Maior for proclaiming the Kings proclamation."</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Essex (England) --  History.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:43783:1"/>
+            <pb facs="tcp:43783:1"/>
+            <p>THE RESOLVTION AND MOST FAITHFULL EXPRESSION of the Gentry and Commonalty of the Countie of ESSEX.</p>
+            <p>PRESENTED To the House of <hi>PARLIAMENT Jun.</hi> 20. 1642.</p>
+            <p>Wherein is declared their certaine and reall Intentions to maintaine the Priviledges of the Crowne and Parliament.</p>
+            <p>Also the true Relation of an Opposition and Distur<g ref="char:EOLhyphen"/>bance given to the Earle of <hi>Stamford</hi> at the Training of the Traine Bands at <hi>Leicester.</hi>
+            </p>
+            <p>Which Disturbance was given by Mr. <hi>Hen. Hastings,</hi> sonne to the Earle of <hi>Huntington.</hi>
+            </p>
+            <p>With the Order from the House concerning Mr. <hi>Hastings,</hi> as a Delinquent and occasioner of the same Disturbance.</p>
+            <p>As also an Order to send for the Maior, for proclaiming the Kings Proclaimation.</p>
+            <p>Hen. Elsyng, Cler. Parl.</p>
+            <p>
+               <hi>June</hi> 25. <hi>Printed for</hi> William Arding, 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:43783:2"/>
+            <pb facs="tcp:43783:2"/>
+            <head>The Resolution and most faithfull Expression of the Gentry and Commonalty of the Coun<g ref="char:EOLhyphen"/>ty of Essex.</head>
+            <p>LOng hath this Kingdome suffered a most fearfull distraction, and it hath bin so long divided within the severall Counties, that the daily dis<g ref="char:EOLhyphen"/>contents have begot in the timorous Subject fears and jealousies of a present Ruine.</p>
+            <p>For we are taught by daily experience <hi>That a Kingdome divided cannot stand,</hi> but must of necessity fall to ruine, and destru<g ref="char:EOLhyphen"/>ction must be the end and issue of those Civill dissentions. Witnesse the Pride of <hi>Rome,</hi> whose ambition was made levell and equall to misery, by their home-bred jars. I will not rehearse the languishing Esta<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e of this Land, before the happy
+<gap reason="missing" extent="1+ pages">
+                  <desc>〈1+ pages missing〉</desc>
+               </gap>
+               <pb facs="tcp:43783:3"/> Balsame of this Parliament was applyed therto, which untill this time hath found most dangerous oppressions, the faithfull Endeavours therof being dayly sought to be contradicted, by those guilty persons, whose guilt could not endure the tryall of so just a Court.</p>
+            <p>Yet notwithstanding these manifold oppositions, Justice hath not bin left al<g ref="char:EOLhyphen"/>together destitute of some Professors, and such intire Agents whose endeavours should preserve from the violent hands of malignity and scandall.</p>
+            <p>The proceedings of this Parliament hath bin beyond expectation and Right retarded, and the much agrieved Subject hath by these delays been much hindred from the relief and burthen of his for<g ref="char:EOLhyphen"/>mer distresses, which he justly did expect to receive from this most humble Court The cause of not being relieved, did not proceed from themselves, so that of them<g ref="char:EOLhyphen"/>selves they could for the present redresse and comfort the expectation of the Sub<g ref="char:EOLhyphen"/>ject.</p>
+            <pb facs="tcp:43783:3"/>
+            <p>The difference between the King and Parliament did cause a great stand in the Subject, so that most Countries untill within these few dayes were very doubt<g ref="char:EOLhyphen"/>full to which part they might give their countenance and assurance.</p>
+            <p>But now I cannot but with joy de<g ref="char:EOLhyphen"/>clare, and I hope by this one example many more will be drawn to the like, how both the Gentry and Commonalty, of the County of <hi>Essex</hi> did proffer up both their Lives and fortunes, to serve the King and Parliament.</p>
+            <p>Upon the 20. of this month by the generall Consent of that whole County a Petition was framed and delivered in<g ref="char:EOLhyphen"/>to the House of <hi>Parliament,</hi> the Contents wherof were as followeth.</p>
+            <p>I. That they were much grieved for the difference of His Majesty and the Parlia<g ref="char:EOLhyphen"/>ment, and that they should heartily wish that all these differences might be re<g ref="char:EOLhyphen"/>membred.</p>
+            <pb facs="tcp:43783:4"/>
+            <p>And also that they hoped that there was no cause of distaste given his Majesty by the Houses; wherefore they were resol<g ref="char:EOLhyphen"/>ved, with a most firm <hi>Resolution,</hi> and all faithfulnesse to serve the <hi>Parliament,</hi> to maintain Religion, the Laws of the land, and the priviledges of the King and Par<g ref="char:EOLhyphen"/>liament, with their lives, and fortunes, which petition was kindly received by the house.</p>
+            <p>How the <hi>Militia</hi> of this Kingdome hath bin committed to the care of divers Noblemen, whom the House of Parlia<g ref="char:EOLhyphen"/>ment hath thought fit to think worthy of that great trust, wherein the safety of this Kingdom doth consist.</p>
+            <p>I shall not need for the present to de<g ref="char:EOLhyphen"/>scribe Neither will I relate the difference which hath arose about the charge of this <hi>Militia,</hi> and which as yet doth re<g ref="char:EOLhyphen"/>main unreconciled. The Earl of <hi>Stamford</hi> was chosen Lieutenant of <hi>Liecester</hi> shire, and by that means had the charge of the <hi>Militia</hi> of that County committed unto him, and by an Order from the said house
+<pb facs="tcp:43783:4"/> was commanded down thither to exer<g ref="char:EOLhyphen"/>cise and train all the whole Land of that County.</p>
+            <p>He had for some space gone on with the <hi>Militia,</hi> although in the intrim hee found some opposition. And now again lately while he was imployed in the ex<g ref="char:EOLhyphen"/>ercise of his charge, M. <hi>Henry Hastings</hi> Son to the Earl of <hi>Huntingdon</hi> came from <hi>Yorke,</hi> and with him brought the Kings <hi>Proclamation</hi> for the mustering up of the Train bands, which seemed to counter<g ref="char:EOLhyphen"/>mand the Authority of the Earl of <hi>Stam<g ref="char:EOLhyphen"/>ford,</hi> and he bred very much disturbance in Liecester town.</p>
+            <p>Wherupon the Earl of <hi>Liecester,</hi> and Sir <hi>Arthur Haslerigg</hi> sent Letters imme<g ref="char:EOLhyphen"/>diatly away unto the <hi>Parliament,</hi> infor<g ref="char:EOLhyphen"/>ming them, how the proceedings concer<g ref="char:EOLhyphen"/>ning the <hi>Militia</hi> was hindered, how great a d<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sturbance was bred in that place by M. <hi>Hen. Hastings,</hi> and also that the Major of <hi>Liecester</hi> had proclaimed the Kings <hi>Proclamation,</hi> by which means this great disturbance was bred at the Muster.</p>
+            <pb facs="tcp:43783:5"/>
+            <p>Wherupon there issued forth an order from the House, that Mr. <hi>Henry Hastings</hi> should be sent for as a <hi>Delinquent,</hi> and al<g ref="char:EOLhyphen"/>so another Order that the Major of that Town, and 3 others should be senr for to appear before the House of Commons. for proclaiming the said <hi>Proclamation.</hi>
+            </p>
+            <p>It was resolved upon the question by the Lords and Commons in Parliament, <hi>That the Commission of Array for Leycester is against Law, and against the Liberty and property of the Subiect.</hi> June 20. It was re<g ref="char:EOLhyphen"/>solved upon the question, <hi>That all those that are Actors in putting of the Commission of Array in execution, shall be esteemed a<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> disturbers of the peace of the Kingdom, &amp;c.</hi>
+            </p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="order_to_print">
+            <p>Ordered that this shall be printed and published through the whole <hi>King<g ref="char:EOLhyphen"/>dome.</hi>
+            </p>
+            <closer>
+               <signed>Joh. Brown Cler. Parl.</signed>
+            </closer>
+            <pb facs="tcp:43783:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
